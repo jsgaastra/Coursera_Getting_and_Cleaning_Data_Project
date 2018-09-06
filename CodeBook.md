@@ -1,8 +1,8 @@
-# Identifiers
+## Identifiers
 * subject - The ID of the test subject
 * activity - The type of activity performed when the corresponding measurements were taken
 
-# Measurements (listed in order)
+## Measurements (listed in order)
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ
@@ -83,7 +83,7 @@
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
   
- # Numeric Activity Labels
+ ## Numeric Activity Labels
  
  * 1 = WALKING (subject was walking during the test period)
  * 2 = WALKING_UPSTAIRS (subject was walking upstairs during the test period)
